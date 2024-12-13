@@ -24,7 +24,7 @@ The Real-Time Flipkart API provides product details such as name, price, and rat
 
 6. **AWS Athena :** Amazon Athena is a serverless interactive query service that allows you to analyze data directly in Amazon S3 using standard SQL. It eliminates the need for setting up and managing servers, making it easy to run ad-hoc queries on large datasets stored in S3.
 
-### Packages used 
+### Libraries used 
 ```
 import http.client
 import json
